@@ -1,8 +1,24 @@
-# Getting Started with Create React App
+# About The Project 🙋
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React Todo List 
 
-## Available Scripts
+* Are you looking for a way to manage your tasks?
+* Are you looking for a convenient application for daily operation?
+
+## How To Run
+
+<img width="1308" alt="צילום מסך 2022-09-09 ב-13 31 13" src="https://user-images.githubusercontent.com/109951474/189334353-2be0429d-5325-4a8f-8ab7-8122a905b9ee.png">
+<img width="1308" alt="צילום מסך 2022-09-09 ב-13 37 29" src="https://user-images.githubusercontent.com/109951474/189334370-d943dc5a-c048-4c30-87c3-b175eb2dfd3c.png">
+<img width="1308" alt="צילום מסך 2022-09-09 ב-13 38 26" src="https://user-images.githubusercontent.com/109951474/189334380-a3525812-bb58-4220-8203-0db8ce2d0df4.png">
+<img width="1308" alt="צילום מסך 2022-09-09 ב-13 38 54" src="https://user-images.githubusercontent.com/109951474/189334382-35413a18-6db4-4059-ab7b-91b90321f3bb.png">
+<img width="1308" alt="צילום מסך 2022-09-09 ב-13 39 21" src="https://user-images.githubusercontent.com/109951474/189334385-0a8fcb58-2a17-4c0a-8ef2-1694be2204c8.png">
+<img width="1308" alt="צילום מסך 2022-09-09 ב-13 39 56" src="https://user-images.githubusercontent.com/109951474/189334388-675babd7-6db3-491c-aaa6-f6652b097a18.png">
+<img width="1308" alt="צילום מסך 2022-09-09 ב-13 40 02" src="https://user-images.githubusercontent.com/109951474/189334393-3c398db5-dbfc-48af-94b0-70749601686c.png">
+<img width="1308" alt="צילום מסך 2022-09-09 ב-13 41 16" src="https://user-images.githubusercontent.com/109951474/189334394-77ba05af-6829-423b-810e-a877afb7266e.png">
+<img width="1308" alt="צילום מסך 2022-09-09 ב-13 41 24" src="https://user-images.githubusercontent.com/109951474/189334396-9ee89712-ba12-40bd-b735-7d121428386f.png">
+<img width="1308" alt="צילום מסך 2022-09-09 ב-13 43 17" src="https://user-images.githubusercontent.com/109951474/189334400-31c11004-869d-4d9b-856e-c4b36529bde8.png">
+<img width="1308" alt="צילום מסך 2022-09-09 ב-13 43 25" src="https://user-images.githubusercontent.com/109951474/189334401-e601ea9c-9929-47ef-a249-3b4b75231d3c.png">
+
 
 In the project directory, you can run:
 
@@ -28,43 +44,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
